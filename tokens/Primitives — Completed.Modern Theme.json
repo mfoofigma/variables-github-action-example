@@ -3,7 +3,7 @@
     "gray": {
       "50": {
         "$type": "color",
-        "$value": "#f1f1f1",
+        "$value": "#643c3c",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -73,7 +73,7 @@
       },
       "900": {
         "$type": "color",
-        "$value": "#202020",
+        "$value": "#05ff00",
         "$description": "",
         "$extensions": {
           "com.figma": {
