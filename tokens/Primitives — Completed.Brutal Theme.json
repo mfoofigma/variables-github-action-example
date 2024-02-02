@@ -4,7 +4,7 @@
       "50": {
         "$type": "color",
         "$value": "#eedeff",
-        "$description": "this is the gray colour",
+        "$description": "",
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
