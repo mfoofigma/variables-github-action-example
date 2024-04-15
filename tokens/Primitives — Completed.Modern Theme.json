@@ -3,15 +3,19 @@
     "gray": {
       "50": {
         "$type": "color",
-        "$value": "#fffcfc",
-        "$description": "updating this descriotion with something new",
+        "$value": "#fffcfcfa",
+        "$description": "New 15 April description",
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
             "scopes": [
               "ALL_SCOPES"
             ],
-            "codeSyntax": {}
+            "codeSyntax": {
+              "WEB": "color/gray/50WEB",
+              "ANDROID": "color/gray/50ANDROID",
+              "iOS": "color/gray/50iOS"
+            }
           }
         }
       },
