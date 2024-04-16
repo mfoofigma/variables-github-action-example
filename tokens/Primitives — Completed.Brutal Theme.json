@@ -3,8 +3,8 @@
     "gray": {
       "50": {
         "$type": "color",
-        "$value": "#5a0dae",
-        "$description": "New 15 April description",
+        "$value": "#0d1127",
+        "$description": "Hello everyone!",
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
