@@ -3,7 +3,7 @@
     "gray": {
       "50": {
         "$type": "color",
-        "$value": "#d8d8d8c2",
+        "$value": "#b8adaded",
         "$description": "Hello all!",
         "$extensions": {
           "com.figma": {
@@ -12,7 +12,7 @@
               "ALL_SCOPES"
             ],
             "codeSyntax": {
-              "WEB": "web8May",
+              "WEB": "web23May",
               "ANDROID": "color/gray/50ANDROID",
               "iOS": "iOSMAy"
             }
