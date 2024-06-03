@@ -3,8 +3,8 @@
     "gray": {
       "50": {
         "$type": "color",
-        "$value": "#b8adaded",
-        "$description": "Hello all!",
+        "$value": "#706b6bed",
+        "$description": "3rdJune Test Description",
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
@@ -12,7 +12,7 @@
               "ALL_SCOPES"
             ],
             "codeSyntax": {
-              "WEB": "web23May",
+              "WEB": "web_3June",
               "ANDROID": "color/gray/50ANDROID",
               "iOS": "iOSMAy"
             }
