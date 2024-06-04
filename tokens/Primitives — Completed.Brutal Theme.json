@@ -3,7 +3,7 @@
     "gray": {
       "50": {
         "$type": "color",
-        "$value": "#060d2d",
+        "$value": "#41496c",
         "$description": "3rdJune Test Description",
         "$extensions": {
           "com.figma": {
@@ -12,7 +12,7 @@
               "ALL_SCOPES"
             ],
             "codeSyntax": {
-              "WEB": "web_3June",
+              "WEB": "web_hello",
               "ANDROID": "color/gray/50ANDROID",
               "iOS": "iOSMAy"
             }
@@ -21,7 +21,7 @@
       },
       "200": {
         "$type": "color",
-        "$value": "#9d57e5",
+        "$value": "#5c4575",
         "$description": "",
         "$extensions": {
           "com.figma": {
