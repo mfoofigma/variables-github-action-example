@@ -4,15 +4,15 @@
       "50": {
         "$type": "color",
         "$value": "#41496c",
-        "$description": "3rdJune Test Description",
+        "$description": "Hello EVERYONE!",
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
             "scopes": [
-              "ALL_SCOPES"
+              "STROKE_COLOR"
             ],
             "codeSyntax": {
-              "WEB": "web_hello",
+              "WEB": "web6Jun",
               "ANDROID": "color/gray/50ANDROID",
               "iOS": "iOSMAy"
             }
@@ -21,7 +21,7 @@
       },
       "200": {
         "$type": "color",
-        "$value": "#5c4575",
+        "$value": "#794bab",
         "$description": "",
         "$extensions": {
           "com.figma": {
