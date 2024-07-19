@@ -14,14 +14,14 @@
             "codeSyntax": {
               "WEB": "web6Jun",
               "ANDROID": "color/gray/50ANDROID",
-              "iOS": "iOSMAy"
+              "iOS": "iOSJULY"
             }
           }
         }
       },
       "200": {
         "$type": "color",
-        "$value": "#d3d3d3",
+        "$value": "#c2bbbb",
         "$description": "",
         "$extensions": {
           "com.figma": {
