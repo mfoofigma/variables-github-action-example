@@ -4,7 +4,7 @@
       "50": {
         "$type": "color",
         "$value": "#3b3838ed",
-        "$description": "Hello EVERYONE!",
+        "$description": "Hello Mumbai!!",
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
@@ -12,8 +12,8 @@
               "STROKE_COLOR"
             ],
             "codeSyntax": {
-              "WEB": "web6Jun",
-              "ANDROID": "color/gray/50ANDROID",
+              "WEB": "web26Aug",
+              "ANDROID": "color/gray/50ANDROID_yea!",
               "iOS": "iOSJULY"
             }
           }
