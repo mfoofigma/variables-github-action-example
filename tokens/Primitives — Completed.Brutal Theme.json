@@ -3,8 +3,8 @@
     "gray": {
       "50": {
         "$type": "color",
-        "$value": "#994a94",
-        "$description": "Hello team!",
+        "$value": "#e462dc",
+        "$description": "This is an example of a test description",
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
@@ -12,7 +12,7 @@
               "STROKE_COLOR"
             ],
             "codeSyntax": {
-              "WEB": "web26Aug",
+              "WEB": "webNovember",
               "ANDROID": "color/gray/50ANDROID_yea!",
               "iOS": "iOSJULY"
             }
